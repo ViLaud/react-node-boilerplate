@@ -14,8 +14,7 @@ You may also see any lint errors in the console.\
 see more [here](https://github.com/ViLaud/react-node-boilerplate/edit/master/server/README.md)
 
 ## Client:
-If you just started the server following the steps above, open a new terminal tab, while keeping the current tab running the server open.
-### Available Scripts
+If you just started the server following the steps above, open a new terminal tab, while keeping the current tab running the server open.\
 from the project directory, navigate to the client folder by running
 ### `cd client`
 Same as with the server, ff this is your first time running the client from your your machine, be sure to first install all dependencies by running
